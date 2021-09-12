@@ -7,7 +7,7 @@ My Personel Repository
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mercanyusuf" alt="mercanyusuf" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,React,.Net Core**
+- 🌱 I’m currently learning **Javascript,React,.Net Core , C#**
 
 - 📫 How to reach me **mercann.yusuff@gmail.com**
 
